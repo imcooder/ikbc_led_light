@@ -19,6 +19,23 @@ G系列有些版本 虽然预留加灯的引脚 但需要升级固件才可以�
 
 3. 下载需要时间，等待进度完成，正在下载时，右上角会有一个进度条！
 
+## 快捷键
+### 原有快捷键不变
+Fn+F9 - Win key lock (with F9 being also the LED indicator)
+Fn+F10 - swap Caps Lock/Left Ctrl keys (F10 LED indicator)
+Fn+F11 - swap Win/Alt keys (F11 LED indicator)
+Fn+F12 - 6KRO/NKRO toggle (F12 LED indicator)
+Fn+Esc - toggle off/on the F9-F12 LED indicators (no LED indicator on the Esc itself)
+
+### 背光:
+Fn+0 - 关闭
+Fn+8 - 所有按键统一高亮
+Fn+9 - 呼吸灯
+Fn+1~7 - 调整亮度
+Fn+-/+ - 选择背灯模式
+Fn+arrow keys - 各个背灯模式下频率快慢调整
+Fn+S (hold 3 seconds) - 模式参数保存
+Fn+Delete (hold 5 seconds) - 恢复默认参数
 
 ## 效果
 ![效果](https://github.com/imcooder/ikbc_led_light/blob/master/image/review.jpg?raw=true)
